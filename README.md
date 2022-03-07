@@ -9,21 +9,17 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 # Chatrs
 
 # Requierments
-numpy
 
-pandas
-
-matplotlib
-
-seaborn
-
-spicy
-
-sklearn
-
-warnings
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- spicy
+- sklearn
+- warnings
 
 # How to choose
+
 Trends - A trend is defined as a pattern of change.
 sns.lineplot - Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
 
@@ -48,5 +44,3 @@ sns.distplot - Histograms show the distribution of a single numerical variable.
 sns.kdeplot - KDE plots (or 2D KDE plots) show an estimated, smooth distribution of a single numerical variable (or two numerical variables).
 
 sns.jointplot - This command is useful for simultaneously displaying a 2D KDE plot with the corresponding KDE plots for each individual variable.
-
-
