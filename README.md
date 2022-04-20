@@ -18,7 +18,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 - sklearn
 - warnings
 
-# How to choose
+# How to choose a plot
 
 Trends - A trend is defined as a pattern of change.
 sns.lineplot - Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
